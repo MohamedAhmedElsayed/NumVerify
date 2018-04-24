@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:layout_marginBottom="@dimen/ItemMargin"
+              android:layout_marginTop="@dimen/ItemMargin"
+              android:background="@drawable/input_layout"
+              android:elevation="4dp"
+              android:orientation="vertical"
+              android:padding="@dimen/InputPadding">
+
+    <TextView
+        android:id="@+id/ValidTV"
+        style="TextViewStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Valid"
+
+        />
+
+    <TextView
+        android:id="@+id/NumberTV"
+        style="TextViewStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Number"
+
+        />
+
+    <TextView
+        android:id="@+id/local_formatTV"
+        style="TextViewStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/LocalFormat"
+        />
+
+    <TextView
+        android:id="@+id/international_formatTV"
+        style="TextViewStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/International_Format"
+        />
+
+    <TextView
+        android:id="@+id/country_prefixTV"
+        style="TextViewStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/CountryPrefix"
+        />
+
+    <TextView
+        android:id="@+id/country_codeTV"
+        style="TextViewStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/countryCode"
+        />
+
+    <TextView
+        android:id="@+id/country_nameTV"
+        style="TextViewStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/CountryName"
+        />
+
+    <TextView
+        android:id="@+id/locationTV"
+        style="TextViewStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Location"
+        />
+
+    <TextView
+        android:id="@+id/carrierTV"
+        style="TextViewStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Carrier"
+        />
+
+
+    <TextView
+        android:id="@+id/line_typeTV"
+        style="TextViewStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/LineType"/>
+
+</LinearLayout>
+     

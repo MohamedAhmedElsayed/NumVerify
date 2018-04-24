@@ -1,0 +1,12 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="inputLayoutMargin">7dp</dimen>
+    <dimen name="InputPadding">16dp</dimen>
+    <dimen name="layoutRadious">5dp</dimen>
+    <dimen name="InputLayoutPadding">16dp</dimen>
+    <dimen name="FABmargin">7dp</dimen>
+    <dimen name="ItemMargin">5dp</dimen>
+    <dimen name="butWidth">150dp</dimen>
+ </resources>

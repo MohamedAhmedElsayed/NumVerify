@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Number Verify</string>
+    <string name="PhoneNumer">Phone Number</string>
+    <string name="PhoneNumber">Phone Number</string>
+    <string name="PrefixCode">Prefix Code </string>
+    <string name="Verify">Verify</string>
+    <string name="Valid">Valid: </string>
+    <string name="Number">Number: </string>
+    <string name="International_Format">International Format: </string>
+    <string name="LocalFormat">Local Format: </string>
+    <string name="CountryPrefix">Country Prefix: </string>
+    <string name="countryCode">Country Code: </string>
+    <string name="CountryName">Country Name: </string>
+    <string name="Location">Location: </string>
+    <string name="Carrier">Carrier: </string>
+    <string name="LineType">Line Type: </string>
+    <string name="ErrorNetworkConnection">Check Your Connection</string>
+    <string name="Saved">Saved To Your History</string>
+    <string name="NotSaved">Cant Saved To History</string>
+</resources>
